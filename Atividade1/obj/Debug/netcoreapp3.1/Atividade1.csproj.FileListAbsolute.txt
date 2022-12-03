@@ -1,0 +1,14 @@
+C:\Users\Ryzen\source\repos\Atividade1\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.exe
+C:\Users\Ryzen\source\repos\Atividade1\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.deps.json
+C:\Users\Ryzen\source\repos\Atividade1\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.runtimeconfig.json
+C:\Users\Ryzen\source\repos\Atividade1\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.runtimeconfig.dev.json
+C:\Users\Ryzen\source\repos\Atividade1\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.dll
+C:\Users\Ryzen\source\repos\Atividade1\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.pdb
+C:\Users\Ryzen\source\repos\Atividade1\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.csproj.AssemblyReference.cache
+C:\Users\Ryzen\source\repos\Atividade1\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\source\repos\Atividade1\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.AssemblyInfoInputs.cache
+C:\Users\Ryzen\source\repos\Atividade1\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.AssemblyInfo.cs
+C:\Users\Ryzen\source\repos\Atividade1\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\source\repos\Atividade1\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.dll
+C:\Users\Ryzen\source\repos\Atividade1\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.pdb
+C:\Users\Ryzen\source\repos\Atividade1\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.genruntimeconfig.cache
